@@ -1,3 +1,7 @@
+## Jogo da Velha em React
+
+Este repositório contém o jogo da velha que a [documentação oficial do react](https://pt-br.reactjs.org/tutorial/tutorial.html) ensina em seu tutorial.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
